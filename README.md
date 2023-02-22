@@ -35,6 +35,6 @@ Get in touch with me!<br>
 </div>
 
 <h1>Lets get some statistics</h1>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=int-code&theme=dark&background=000000" align="left">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=int-code&theme=dark&background=000000" align="left" width=50%>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=int-code&layout=compact&theme=vision-friendly-dark" align="right">
 
