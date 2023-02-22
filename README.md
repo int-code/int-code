@@ -16,11 +16,11 @@ Get in touch with me!<br>
 <li>Currently trying to learn React and Machine Learning</li>
 <li>Pronouns: She/Her</li>
 </ul>
-
+<div>
 <img src="https://img.shields.io/github/stars/int-code?style=social" alt="" align="right"/>
 <img src="https://img.shields.io/github/followers/int-code?style=social" alt="" align="right"/>
 <img src="https://komarev.com/ghpvc/?username=int-code&style=flat-square&color=blue" alt="" align="right"/>
-
+</div>
 <h1>Frameworks I'm currently loving <img src="https://media.giphy.com/media/3WuYqcEnVxoYVyrMVM/giphy.gif" height=60px/></h1>
 <div>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" href="https://www.github.com">
