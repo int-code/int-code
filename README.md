@@ -10,8 +10,9 @@
   I am Pubali Basak, a fellow data science enthusiast!
     </td>
 </tr>
-  
+<tr>
 </table>
+<img src="https://komarev.com/ghpvc/?username=int-code&style=flat-square&color=blue" alt=""/>
 
 </div>
 <!-- ### Hi there 👋
