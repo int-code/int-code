@@ -5,7 +5,7 @@
 
 Get in touch with me!<br>
 <img src="https://img.shields.io/badge/pubali basak-0A66C2?&style=for-the-badge&logo=linkedin" href="https://linkedin.com/in/pubali-basak">
-<img src="https://img.shields.io/badge/pubalibasak16-ffffff?&style=for-the-badge&logo=gmail" href="https://linkedin.com/in/pubali-basak">
+<img src="https://img.shields.io/badge/pubalibasak16-ffffff?&style=for-the-badge&logo=gmail" href="https://mailto:pubalibasak16@gmail.com">
 <img src="https://img.shields.io/badge/pub_42-5B4638?&style=for-the-badge&logo=codechef" href="https://www.codechef.com/users/pub_42">
 </div>
 
@@ -23,14 +23,14 @@ Get in touch with me!<br>
 </div>
 <h1>Frameworks I'm currently loving <img src="https://media.giphy.com/media/3WuYqcEnVxoYVyrMVM/giphy.gif" height=60px/></h1>
 <div>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" href="https://www.github.com">
-<img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" href="https://www.github.com">
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" href="https://www.github.com">
-<img src="https://img.shields.io/badge/nltk-006272?style=for-the-badge&logo=python&logoColor=white" href="https://www.github.com">
-<img src="https://img.shields.io/badge/pygame-0ABF53?style=for-the-badge&logo=python&logoColor=white" href="https://www.github.com">
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" href="https://www.github.com">
-<img src="https://img.shields.io/badge/matplotlib-1A70B8?style=for-the-badge&logo=python&logoColor=white" href="https://www.github.com">
-<img src="https://img.shields.io/badge/seaborn-8BC0D0?style=for-the-badge&logo=python&logoColor=white" href="https://www.github.com">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" href="https://scikit-learn.org/stable/">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" href="https://numpy.org/">
+<img src="https://img.shields.io/badge/nltk-006272?style=for-the-badge&logo=python&logoColor=white" href="https://www.nltk.org/">
+<img src="https://img.shields.io/badge/pygame-0ABF53?style=for-the-badge&logo=python&logoColor=white" href="https://www.pygame.org/">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" href="https://www.djangoproject.com/">
+<img src="https://img.shields.io/badge/matplotlib-1A70B8?style=for-the-badge&logo=python&logoColor=white" href="https://matplotlib.org/">
+<img src="https://img.shields.io/badge/seaborn-8BC0D0?style=for-the-badge&logo=python&logoColor=white" href="https://seaborn.pydata.org/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" href="https://www.github.com">
 </div>
 
