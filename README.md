@@ -10,7 +10,13 @@
   I am Pubali Basak, a fellow data science enthusiast!
     </td>
 </tr>
-<tr>
+<tr><td>
+Get in touch!
+</td>
+<td>
+<img src="https://img.shields.io/badge/pubali basak-0A66C2?&style=for-the-badge&logo=linkedin" href="https://linkedin.com/in/pubali-basak">
+</td>
+</tr>
 </table>
 <img src="https://komarev.com/ghpvc/?username=int-code&style=flat-square&color=blue" alt=""/>
 
